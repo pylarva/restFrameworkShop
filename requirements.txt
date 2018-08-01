@@ -83,7 +83,6 @@ oss2==2.5.0
 packaging==17.1
 pandas==0.22.0
 pandocfilters==1.4.2
-paramiko==2.1.2
 parsel==1.4.0
 parso==0.2.0
 pbr==3.0.1
